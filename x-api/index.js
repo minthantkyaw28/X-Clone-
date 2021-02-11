@@ -449,4 +449,3 @@ app.put("/notis/:id", auth, async (req, res) => {
 app.listen(8888, () => {
 	console.log("X api running at 8888");
 });
-// chore: note 2026-04-20T21:11:50
