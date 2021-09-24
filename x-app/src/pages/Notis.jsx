@@ -101,4 +101,3 @@ export default function Notis() {
 		</Box>
 	);
 }
-// chore: note 2021-08-17T06:25:31
