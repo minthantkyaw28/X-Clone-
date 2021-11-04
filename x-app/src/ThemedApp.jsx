@@ -79,4 +79,3 @@ export default function ThemedApp() {
 		</AuthContext.Provider>
 	);
 }
-// chore: note 2021-02-10T20:29:25
