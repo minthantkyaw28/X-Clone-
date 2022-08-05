@@ -63,4 +63,3 @@ export default function UserList({ users, title }) {
 		</Box>
 	);
 }
-// chore: note 2022-08-01T13:52:53
