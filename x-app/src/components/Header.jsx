@@ -77,4 +77,3 @@ export default function Header({ toggleDrawer }) {
 		</AppBar>
 	);
 }
-// chore: note 2022-10-14T17:56:17
