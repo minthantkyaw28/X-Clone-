@@ -146,4 +146,3 @@ export async function fetchToggleLike(id) {
 
 	return res.ok;
 }
-// chore: note 2022-02-10T16:40:42
