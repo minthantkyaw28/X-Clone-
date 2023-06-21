@@ -62,4 +62,3 @@ export default function Home() {
 		</>
 	);
 }
-// chore: note 2023-06-08T18:23:10
