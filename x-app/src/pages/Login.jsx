@@ -84,4 +84,3 @@ export default function Login() {
 		</Box>
 	);
 }
-// chore: note 2023-08-11T10:58:48
