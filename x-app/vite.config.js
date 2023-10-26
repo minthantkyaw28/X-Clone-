@@ -9,4 +9,3 @@ export default defineConfig({
 		open: true,
 	},
 });
-// chore: note 2023-09-15T06:23:58
