@@ -162,4 +162,3 @@ export default function PostCard({ post, primary, toggleLike }) {
 		</Card>
 	);
 }
-// chore: note 2023-12-15T17:50:59
