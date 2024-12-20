@@ -26,4 +26,3 @@ export default function Likes() {
 		</Box>
 	);
 }
-// chore: note 2024-11-27T02:41:49
