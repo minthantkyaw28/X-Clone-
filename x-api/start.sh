@@ -9,4 +9,3 @@ sleep 3
 
 # Run your Node.js application
 nodemon index.js
-# chore: note 2025-01-31T14:17:48
