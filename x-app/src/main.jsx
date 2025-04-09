@@ -64,4 +64,3 @@ ReactDOM.createRoot(document.getElementById("root")).render(
 		<RouterProvider router={router} />
 	</React.StrictMode>,
 );
-// chore: note 2025-02-07T19:17:08
