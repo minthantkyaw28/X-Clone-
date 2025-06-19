@@ -152,4 +152,3 @@ export default function MainDrawer({ showDrawer, toggleDrawer }) {
 		</div>
 	);
 }
-// chore: note 2025-06-17T19:51:44
