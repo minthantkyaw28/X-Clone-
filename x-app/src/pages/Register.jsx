@@ -108,4 +108,3 @@ export default function Register() {
 		</Box>
 	);
 }
-// chore: note 2025-07-28T18:56:33
