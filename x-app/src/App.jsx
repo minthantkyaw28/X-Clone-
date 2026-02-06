@@ -63,4 +63,3 @@ export default function App() {
 		</>
 	);
 }
-// chore: note 2026-01-28T09:05:50
